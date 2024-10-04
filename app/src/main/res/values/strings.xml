@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Smart Tasks</string>
+    <string name="no_tasks_for_today">No tasks for today!</string>
+    <string name="no_tasks_icon">no taskApiModels icon</string>
+    <string name="today">Today</string>
+    <string name="go_to_previous_day_icon">Go to previous day icon</string>
+    <string name="go_to_next_day_icon">Go to next day icon</string>
+    <string name="task_detail">Task Detail</string>
+    <string name="unresolved">Unresolved</string>
+    <string name="due_date">Due date</string>
+    <string name="days_left">Days left</string>
+    <string name="can_t_resolve">Can\'t resolve</string>
+    <string name="resolve">Resolve</string>
+    <string name="resolved">Resolved</string>
+    <string name="add_a_comment_here">Add a comment here</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="do_you_want_to_leave_a_comment">Do you want to leave a comment?</string>
+    <string name="comment">Comment</string>
+</resources>
